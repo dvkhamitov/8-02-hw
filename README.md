@@ -43,7 +43,10 @@
 
 ### Задание 3
 
-
+Настройки проекта:
+![alt txt](https://github.com/dvkhamitov/8-02-hw/blob/main/img/3-1.png "настройка проекта")
+Результат выполнения:
+![alt txt](https://github.com/dvkhamitov/8-02-hw/blob/main/img/3-2.png "результат выполнения")
 
 ### Задание 4
 
