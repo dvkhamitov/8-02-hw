@@ -24,7 +24,8 @@
 
 ### Задание 1
 
-
+![alt text](https://github.com/dvkhamitov/8-02-hw/blob/main/img/1-1.png)
+![alt text](https://github.com/dvkhamitov/8-02-hw/blob/main/img/1-2.png)
 
 
 ---
