@@ -24,8 +24,10 @@
 
 ### Задание 1
 
-![настройка проекта](https://github.com/dvkhamitov/8-02-hw/blob/main/img/1-1.png)
-![результат выполнения](https://github.com/dvkhamitov/8-02-hw/blob/main/img/1-2.png)
+Настройки проекта:
+![alt txt](https://github.com/dvkhamitov/8-02-hw/blob/main/img/1-1.png "настройка проекта")
+Результат выполнения:
+![alt txt](https://github.com/dvkhamitov/8-02-hw/blob/main/img/1-2.png "результат выполнения")
 
 
 ---
